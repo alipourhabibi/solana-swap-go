@@ -17,7 +17,7 @@ Uses the Solana Swap api from [https://docs.solanatracker.io](https://docs.solan
 ## Installation
 
 ```bash
-go get github.com/zewebdev1337/solana-swap-go
+go get github.com/alipourhabibi/solana-swap-go
 ```
 
 <!-- ## Demo
@@ -39,7 +39,7 @@ import (
 
 	"github.com/gagliardetto/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
-	solanatracker "github.com/zewebdev1337/solana-swap-go"
+	solanatracker "github.com/alipourhabibi/solana-swap-go"
 )
 
 func main() {
